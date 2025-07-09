@@ -1,6 +1,6 @@
 const ACCESS_KEY = import.meta.env.VITE_CLASH_ROYALE_TOKEN;
 import { useState } from 'react'
-
+import './App.css'
 export default function App()
 {
 
@@ -14,6 +14,7 @@ export default function App()
 
   return (
     <div className = "App">
+
       <div className = "gallery">
         <h1> Who have we seen so far?</h1>
       </div>
@@ -27,6 +28,7 @@ export default function App()
         <h1> Ban List</h1>
         <h2> Select a type you want to ban!</h2>
       </div>
+
     </div>
   );
 }
