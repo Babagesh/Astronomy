@@ -42,7 +42,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<div style="position: relative; padding-bottom: 54.37499999999999%; height: 0;"><iframe src="https://www.loom.com/embed/602268484e4944aea60f2814dc924472?sid=1c9e8bf8-6871-424e-b132-954f58ed8b38" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/602268484e4944aea60f2814dc924472">
+      <p>Vite + React - 11 July 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/602268484e4944aea60f2814dc924472">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/602268484e4944aea60f2814dc924472-c9ed9a34db5ee3d0-full-play.gif">
+    </a>
+  </div>
 
 GIF created with Loom
 
