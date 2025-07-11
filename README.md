@@ -38,6 +38,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
+Implemented random dates as parameters to get random astronomy images from NASA API.
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
